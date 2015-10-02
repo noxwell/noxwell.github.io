@@ -1,7 +1,7 @@
 // ==UserScript==
 // @id             cf-colors-devolution
 // @name           CF de-Revolution of Colors
-// @version        0.1
+// @version        0.1.2
 // @namespace      https://github.com/noxwell/cf-colors-devolution
 // @updateURL      https://noxwell.github.io/files/cf-colors-devolution.meta.js
 // @downloadURL    https://noxwell.github.io/files/cf-colors-devolution.user.js
