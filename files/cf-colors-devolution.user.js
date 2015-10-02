@@ -1,4 +1,4 @@
-// ==UserScript==
+п»ї// ==UserScript==
 // @id             cf-colors-devolution
 // @name           CF de-Revolution of Colors
 // @version        0.1
@@ -42,11 +42,11 @@ old_script = old_script.replace(/(\$\.plot\(\$\(\"\#)(placeholder)(\"\))/, "$1ol
 if(lang == "en")
   placeholder.before("<p>Before revolution of colors:</p>");
 else
-  placeholder.before("<p>До революции цветов:</p>");
+  placeholder.before("<p>Р”Рѕ СЂРµРІРѕР»СЋС†РёРё С†РІРµС‚РѕРІ:</p>");
 placeholder.before("<div id=\"old_placeholder\" style=\"width:100%;height:300px;\"></div><br />");
 if(lang == "en")
   placeholder.before("<p>After revolution of colors:</p>");
 else
-  placeholder.before("<p>После революции цветов:</p>");
+  placeholder.before("<p>РџРѕСЃР»Рµ СЂРµРІРѕР»СЋС†РёРё С†РІРµС‚РѕРІ:</p>");
 eval(old_script);
 placeholder.show();
